@@ -39,3 +39,4 @@ artwork/
 * All images must be the same size
 * Images must be publicly accessible (setting in Google Cloud Storage)
 # BuildABit
+# BuildABit
