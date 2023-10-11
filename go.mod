@@ -9,7 +9,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/pkg/errors v0.9.1
 	github.com/rs/cors v1.8.0
-	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
+	golang.org/x/net v0.17.0
 	google.golang.org/api v0.54.0
 	google.golang.org/appengine v1.6.7
 )
