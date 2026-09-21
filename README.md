@@ -2,7 +2,7 @@
 
 ![](./img/gopher.png)
 
-* Code for [BuildABit.Dev](https://BuildABit.Dev)
+* Code for BuildABit.Dev (site no longer active, see this repo for the source)
 
 ## Artwork
 
@@ -42,4 +42,4 @@ artwork/
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
